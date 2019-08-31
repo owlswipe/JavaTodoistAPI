@@ -1,5 +1,5 @@
 # TodoistApiJava
-This is a simple and lightweight unofficial library for the Todoist Sync API v8. Forked from [the version by LikiPiki](https://github.com/LikiPiki/TodoistApiJava), this library has several advantages:
+This is a simple and lightweight unofficial library for the Todoist Sync API v8. Originally forked from [the version by LikiPiki](https://github.com/LikiPiki/TodoistApiJava), this library has several advantages:
 
 - Uses the v8 Sync API from Todoist instead of the now-deprecated v7 
 - Built for Android
